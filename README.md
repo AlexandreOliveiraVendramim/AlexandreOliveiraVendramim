@@ -4,11 +4,12 @@
 
 <p align="left">Desenvolvedor em formação, com foco atual em Python e desenvolvimento de software.</p>
 <p align="left">Utilizo este espaço para compartilhar projetos, estudos e minha evolução como programador.</p>
+
 ### 🎯 Objetivos
-🐍 Desenvolvimento com Python  
-💻 Desenvolvimento de software  
-🎮 Game Development  
-📚 Aprendizado contínuo
+🐍 Desenvolvimento com Python<br>  
+💻 Desenvolvimento de software<br>  
+🎮 Game Development<br>  
+📚 Aprendizado contínuo<br>
 
 ### 🛠️ Tecnologias
 <div data-importer="techs" align="left">
