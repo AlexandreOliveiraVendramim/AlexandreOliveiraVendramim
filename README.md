@@ -1,7 +1,7 @@
-<h2 data-importer="text" align="left">Olá, sou Alexandre 👋</h2>
+<h2 align="left">Olá, sou o Alexandre 👋</h2>
 
-###
-
+<br>
+<br>
 <p align="left">Desenvolvedor em formação, com foco atual em Python e desenvolvimento de software.</p>
 <p align="left">Utilizo este espaço para compartilhar projetos, estudos e minha evolução como programador.</p>
 
@@ -20,10 +20,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
 
-###
+<br>
+<br>
 
-
-###
+<br>
 <div data-importer="socials" align="left">
   <a href=https://www.linkedin.com/in/alexandre-oliveira-vendramim-aa8450203/>
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
