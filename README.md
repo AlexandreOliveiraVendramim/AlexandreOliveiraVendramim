@@ -10,7 +10,7 @@
 💻 Desenvolvimento de software<br>  
 🎮 Game Development<br>  
 📚 Aprendizado contínuo<br>
-
+<img data-importer="image" align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3V6ODdyMXhpdWN2ZTlqa216djYwdGN4ZG5ieWt3dDh3Y3V6b29yMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GA1sltMVrl4YJgMyh5/giphy.gif"  />
 ### 🛠️ Tecnologias
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -21,8 +21,6 @@
 </div>
 
 ###
-
-<img data-importer="image" align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3V6ODdyMXhpdWN2ZTlqa216djYwdGN4ZG5ieWt3dDh3Y3V6b29yMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GA1sltMVrl4YJgMyh5/giphy.gif"  />
 
 ###
 
